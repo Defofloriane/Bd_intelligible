@@ -20,8 +20,8 @@ public class connect {
 //                System.out.print(rst.getInt("cls_id")+"\t");
 //                System.out.println(rst.getString("nom_classe")+"\t");
 //            }
-            //Creer_contrat(" 'ner3456' "," 'defo' ", "'floriane'",78," 'Feminin' ","'ingenieur'","' celibataire' "," 'floriane@gmail.com '");
-            Rechercher_contrat("'ner3456'");
+            Creer_contrat(" 'ner3956' "," 'defo' ", "'floriane'",78," 'Feminin' ","'ingenieur'","' celibataire' "," 'floriane@gmail.com '");
+          //  Rechercher_contrat("'ner3456'");
 
         }catch (Exception e){
             System.out.println(e.getMessage());
